@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+ }
+
+ .bg-image {
+    background:url(../src/Images/front-view-boy-portrait-with-graduation-background.jpg)
+    
+ }
+
+.shadow {
+    background-color:gainsboro
+}
